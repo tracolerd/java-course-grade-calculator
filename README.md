@@ -1,4 +1,6 @@
-# 🎓 Java Course Grade Calculator
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101426,50:1D4ED8,100:0B1220&height=190&section=header&text=Java%20Course%20Grade%20Calculator&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=A%20Swing%20desktop%20app%20for%20weighted%20coursework%20and%20GPA%20calculations&descAlignY=61&descSize=15" alt="Java Course Grade Calculator animated project banner" width="100%" />
+</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
@@ -27,7 +29,7 @@ To run or compile this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/java-course-grade-calculator.git](https://github.com/your-username/java-course-grade-calculator.git)
+   git clone https://github.com/tracolerd/java-course-grade-calculator.git
    ```
 2. Navigate to the project directory:
       ```bash
@@ -35,7 +37,10 @@ To run or compile this project, you need:
       ```
 3. Compile the Java file:
       ```bash
-      javac CourseGradeCalculator.java
+      # The repository filename differs from the public class name; rename it first.
+# PowerShell:
+Rename-Item course_grade_calculator.java CourseGradeCalculator.java
+javac CourseGradeCalculator.java
       ```
 4. Run the application:
       ```bash
@@ -44,3 +49,12 @@ To run or compile this project, you need:
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## Author & Development
+
+**Project author and solo developer:** [Nurul Faiyaz](https://github.com/tracolerd).
+
+This project is independently developed and maintained by Nurul Faiyaz. AI-assisted tools may be used as part of the development workflow; the project author remains responsible for technical decisions, code review, validation, and maintenance.
+
