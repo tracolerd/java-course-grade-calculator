@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101426,50:1D4ED8,100:0B1220&height=190&section=header&text=Java%20Course%20Grade%20Calculator&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=A%20Swing%20desktop%20app%20for%20weighted%20coursework%20and%20GPA%20calculations&descAlignY=61&descSize=15" alt="Java Course Grade Calculator animated project banner" width="100%" />
 </p>
+<h1 align="center">Java Course Grade Calculator</h1>
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
