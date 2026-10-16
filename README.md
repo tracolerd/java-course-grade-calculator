@@ -37,12 +37,10 @@ To run or compile this project, you need:
       ```bash
       cd java-course-grade-calculator
       ```
-3. Compile the Java file:
-      ```bash
-      # The repository filename differs from the public class name; rename it first.
-# PowerShell:
-Rename-Item course_grade_calculator.java CourseGradeCalculator.java
-javac CourseGradeCalculator.java
+3. The source file is stored as `course_grade_calculator.java`, but its public class is `CourseGradeCalculator`. Java requires those names to match, so rename it before compiling. In PowerShell:
+      ```powershell
+      Rename-Item .\course_grade_calculator.java CourseGradeCalculator.java
+      javac CourseGradeCalculator.java
       ```
 4. Run the application:
       ```bash
